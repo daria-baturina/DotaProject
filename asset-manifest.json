@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/DotaProject/static/css/main.ef9e649c.chunk.css",
-    "main.js": "/DotaProject/static/js/main.8f5ec736.chunk.js",
-    "main.js.map": "/DotaProject/static/js/main.8f5ec736.chunk.js.map",
+    "main.js": "/DotaProject/static/js/main.678e5609.chunk.js",
+    "main.js.map": "/DotaProject/static/js/main.678e5609.chunk.js.map",
     "runtime-main.js": "/DotaProject/static/js/runtime-main.11373970.js",
     "runtime-main.js.map": "/DotaProject/static/js/runtime-main.11373970.js.map",
-    "static/js/2.16d850dc.chunk.js": "/DotaProject/static/js/2.16d850dc.chunk.js",
-    "static/js/2.16d850dc.chunk.js.map": "/DotaProject/static/js/2.16d850dc.chunk.js.map",
+    "static/js/2.6f56e3f5.chunk.js": "/DotaProject/static/js/2.6f56e3f5.chunk.js",
+    "static/js/2.6f56e3f5.chunk.js.map": "/DotaProject/static/js/2.6f56e3f5.chunk.js.map",
     "index.html": "/DotaProject/index.html",
     "static/css/main.ef9e649c.chunk.css.map": "/DotaProject/static/css/main.ef9e649c.chunk.css.map",
-    "static/js/2.16d850dc.chunk.js.LICENSE.txt": "/DotaProject/static/js/2.16d850dc.chunk.js.LICENSE.txt",
+    "static/js/2.6f56e3f5.chunk.js.LICENSE.txt": "/DotaProject/static/js/2.6f56e3f5.chunk.js.LICENSE.txt",
     "static/media/Wrapper.module.scss": "/DotaProject/static/media/background.813289ae.jpeg",
     "static/media/logo (1).4e50d5d0.png": "/DotaProject/static/media/logo (1).4e50d5d0.png",
     "static/media/notFound.550f2e92.png": "/DotaProject/static/media/notFound.550f2e92.png",
@@ -17,8 +17,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.11373970.js",
-    "static/js/2.16d850dc.chunk.js",
+    "static/js/2.6f56e3f5.chunk.js",
     "static/css/main.ef9e649c.chunk.css",
-    "static/js/main.8f5ec736.chunk.js"
+    "static/js/main.678e5609.chunk.js"
   ]
 }
