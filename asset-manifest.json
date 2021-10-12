@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/DotaProject/static/css/main.47723c3e.chunk.css",
-    "main.js": "/DotaProject/static/js/main.217376bf.chunk.js",
-    "main.js.map": "/DotaProject/static/js/main.217376bf.chunk.js.map",
+    "main.js": "/DotaProject/static/js/main.abf83594.chunk.js",
+    "main.js.map": "/DotaProject/static/js/main.abf83594.chunk.js.map",
     "runtime-main.js": "/DotaProject/static/js/runtime-main.11373970.js",
     "runtime-main.js.map": "/DotaProject/static/js/runtime-main.11373970.js.map",
     "static/js/2.41c762fb.chunk.js": "/DotaProject/static/js/2.41c762fb.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.11373970.js",
     "static/js/2.41c762fb.chunk.js",
     "static/css/main.47723c3e.chunk.css",
-    "static/js/main.217376bf.chunk.js"
+    "static/js/main.abf83594.chunk.js"
   ]
 }
